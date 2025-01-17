@@ -14,24 +14,23 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sanchit Khope# the main title
+title: Sanchit Khope #the main title
 
-tagline: TEJ20R Portfolio # it will display as the subtitle
+tagline: TEJ20R Portfolio #it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # used by seo meta and the atom feed.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://sanchitkhope.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: sanchitkhope3 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
 
-social:
+social:Sanchit Khope
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: your_full_name
@@ -88,7 +87,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [dark]
+theme_mode: dark # [dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
